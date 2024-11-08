@@ -7,7 +7,7 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Murat Yaşar - Login Page</title>
+   <title>Murat Yaşar (cfeb818e)</title>
 </head>
 <body>
    <h1>Login</h1>
